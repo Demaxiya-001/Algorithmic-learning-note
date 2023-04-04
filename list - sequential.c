@@ -59,3 +59,8 @@ int main(void){
         printf("%d ", l.list[i]);
     }
 }
+/*
+#Attention
+1、注意通过长度查看线性表满了没有，是不是空表
+2、结束后长度要变化
+*/
